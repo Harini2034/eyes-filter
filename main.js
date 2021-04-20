@@ -1,6 +1,7 @@
+
 function preload()
 {
-  
+  eyes= loadImage('https://i.postimg.cc/7YfX0NSf/eyes-removebg-preview.png');
 }
 
 function setup()
